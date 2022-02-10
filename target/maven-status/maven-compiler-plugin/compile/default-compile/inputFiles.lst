@@ -1,0 +1,12 @@
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/model/Usuario.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/model/LineaPedido.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/service/PedidoService.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/model/Pedido.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/service/UsuarioService.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/model/Producto.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/BuenoSpringApplication.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/repository/PedidoRepository.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/repository/LineaPedidoRepository.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/repository/ProductoRepository.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/controller/LoginController.java
+/home/flavio/repositorios/2daw/DESPLIEG/BuenoSpring/src/main/java/com/example/demo/repository/UsuarioRepository.java
