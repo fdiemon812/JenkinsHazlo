@@ -27,4 +27,14 @@ class BuenoSpringApplicationTests {
 		
 	}
 
+	
+	@Test
+	void pruebaFallo() {
+		Pedido pedido = new Pedido();
+		pedidoService.addPedido(1, pedido, 1);
+		assertEquals(100.0, pedidoService.calculaPrecioTotal(pedido));
+		
+	}
+	
+	
 }
